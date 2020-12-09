@@ -1,87 +1,131 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.30)  12 MAR 2014 09:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.8)  8 DEC 2020 20:30
 entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**res9b.tex
-(./res9b.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
-(./res.cls
+**"c:/Users/samta/Desktop/Skills Resume/res9b.tex"
+(c:/Users/samta/Desktop/Skills Resume/res9b.tex
+LaTeX2e <2020-10-01>
+L3 programming layer <2020-10-05> xparse <2020-03-03> (c:/Users/samta/Desktop/Skills Resume/res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
-(/usr/share/texmf-texlive/tex/latex/base/article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texmf-texlive/tex/latex/base/size10.clo
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
 )
 No auxiliary output files.
 
-\tabular@text=\toks14
-\tabular@head=\toks15
-\tabular@tail=\toks16
-\@ta=\toks17
-\undefined@token=\toks18
-\sectionwidth=\dimen103
-\sectionskip=\skip43
-\resumewidth=\dimen104
-\@columnwidth=\dimen105
-\c@numberofcolumns=\count87
+\tabular@text=\toks15
+\tabular@head=\toks16
+\tabular@tail=\toks17
+\@ta=\toks18
+\undefined@token=\toks19
+\sectionwidth=\dimen139
+\sectionskip=\skip49
+\resumewidth=\dimen140
+\@columnwidth=\dimen141
+\c@numberofcolumns=\count183
+) (c:/Users/samta/Desktop/Skills Resume/helvetica.sty
+Package: helvetica 94/11/11 4.2 Helvetica PSNFSS2e package
 )
-No file res9b.aux.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 6.
+ (c:/texlive/2020/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count184
+\l__pdf_internal_box=\box47
+) (c:/Users/samta/Desktop/Skills Resume/res9b.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 27.
+ (c:/texlive/2020/texmf-dist/tex/latex/psnfss/ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+c:/Users/samta/Desktop/Skills Resume/res9b.tex:55: Misplaced alignment tab character &.
+l.55 		\item Lead research &
+                             development of multiple analytical projects aim...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--17
+c:/Users/samta/Desktop/Skills Resume/res9b.tex:57: Misplaced alignment tab character &.
+l.57 ...nted at Digital (R)evolution for the Oil &
+                                                   Gas conference hosted by ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
+
+Overfull \hbox (0.11453pt too wide) in paragraph at lines 60--61
+[]\OT1/phv/m/n/10 Acted a Prod-uct Owner for team of 8 re-mote de-vel-op-ers, de-liv-ered Baker Hughes
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 26.
-(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
- [1
+[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] ) 
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+c:/Users/samta/Desktop/Skills Resume/res9b.tex:117: LaTeX Error: \begin{resume} on input line 13 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2] )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 13 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 303 strings out of 495061
- 3276 string characters out of 1182621
- 53507 words of memory out of 3000000
- 3560 multiletter control sequences out of 15000+50000
- 4907 words of font info for 18 fonts, out of 3000000 for 9000
- 28 hyphenation exceptions out of 8191
- 29i,4n,21p,146b,157s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive
-/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/am
-sfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
-sl10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on res9b.pdf (1 page, 67604 bytes).
+ 574 strings out of 479916
+ 9547 string characters out of 5886648
+ 279897 words of memory out of 5000000
+ 17213 multiletter control sequences out of 15000+600000
+ 542919 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 52i,4n,58p,305b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on "c:/Users/samta/Desktop/Skills Resume/res9b.pdf" (2 pages, 29688 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 24 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
