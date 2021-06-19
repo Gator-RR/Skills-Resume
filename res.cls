@@ -281,7 +281,7 @@
 \newdimen\resumewidth
 
 \resumewidth=6.5in
-\sectionskip=3.5ex plus 1ex minus -.2ex % values stolen from LaTeX
+\sectionskip=1.5ex plus 1ex minus -.2ex % values stolen from LaTeX
 
 \def\newsectionwidth#1{%
 		     \sectionwidth=#1
@@ -442,7 +442,7 @@
 \let\@@section\relax
 \def\ds@overlapped{\ifx\@@section\relax\newsectionwidth{0.5in}\let
   \@@section\unboxed@sectiontitle\fi}
-\def\ds@margin{\ifx\@@section\relax\newsectionwidth{1.3in}\let
+\def\ds@margin{\ifx\@@section\relax\newsectionwidth{1.1in}\let
   \@@section\boxed@sectiontitle\fi}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

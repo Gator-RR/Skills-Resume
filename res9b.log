@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.8)  7 APR 2021 20:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.8)  19 JUN 2021 17:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -63,30 +63,30 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 22.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 23.
  (c:/texlive/2020/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
-Overfull \hbox (5.11453pt too wide) in paragraph at lines 28--29
-[]\OT1/phv/m/n/10 Acted as Prod-uct Owner for team of 8 re-mote de-vel-op-ers, de-liv-ered Baker Hughes
+Overfull \hbox (3.29193pt too wide) in paragraph at lines 42--42
+[]\OT1/phv/b/n/10 CERTIFICATIONS  
  []
 
 [1
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] ) 
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
  574 strings out of 479916
  9547 string characters out of 5886648
- 280897 words of memory out of 5000000
+ 282897 words of memory out of 5000000
  17213 multiletter control sequences out of 15000+600000
  542919 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,4n,58p,303b,184s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,4n,58p,275b,184s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on "c:/Users/samta/Desktop/Skills Resume/res9b.pdf" (2 pages, 31119 bytes).
+Output written on "c:/Users/samta/Desktop/Skills Resume/res9b.pdf" (1 page, 30440 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 21 PDF objects out of 1000 (max. 8388607)
+ 14 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
