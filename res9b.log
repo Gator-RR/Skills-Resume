@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.6.2)  2 JUN 2022 16:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.6.2)  14 OCT 2022 17:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -40,48 +40,117 @@ No auxiliary output files.
 \c@numberofcolumns=\count175
 ) (/home/sam/code/Skills-Resume/helvetica.sty
 Package: helvetica 94/11/11 4.2 Helvetica PSNFSS2e package
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count176
+\mult@box=\box45
+\multicol@leftmargin=\dimen138
+\c@unbalance=\count177
+\c@collectmore=\count178
+\doublecol@number=\count179
+\multicoltolerance=\count180
+\multicolpretolerance=\count181
+\full@width=\dimen139
+\page@free=\dimen140
+\premulticols=\dimen141
+\postmulticols=\dimen142
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box46
+\last@line=\box47
+\maxbalancingoverflow=\dimen143
+\mult@rightbox=\box48
+\mult@grightbox=\box49
+\mult@gfirstbox=\box50
+\mult@firstbox=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\c@minrows=\count182
+\c@columnbadness=\count183
+\c@finalcolumnbadness=\count184
+\last@try=\dimen144
+\multicolovershoot=\dimen145
+\multicolundershoot=\dimen146
+\mult@nat@firstbox=\box89
+\colbreak@box=\box90
+\mc@col@check@num=\count185
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count176
-\l__pdf_internal_box=\box45
+\l__kernel_color_stack_int=\count186
+\l__pdf_internal_box=\box91
 ) (/home/sam/code/Skills-Resume/res9b.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 7.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 22.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 23.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
- 551 strings out of 483183
- 8737 string characters out of 5966293
- 237602 words of memory out of 5000000
- 15629 multiletter control sequences out of 15000+600000
+ 674 strings out of 483183
+ 10613 string characters out of 5966293
+ 244327 words of memory out of 5000000
+ 15748 multiletter control sequences out of 15000+600000
  540169 words of font info for 34 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 32i,4n,25p,247b,170s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,4n,25p,264b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on /home/sam/code/Skills-Resume/res9b.pdf (2 pages, 30745 bytes).
+Output written on /home/sam/code/Skills-Resume/res9b.pdf (1 page, 30221 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 21 PDF objects out of 1000 (max. 8388607)
+ 14 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

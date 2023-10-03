@@ -13,6 +13,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 INPUT /home/sam/code/Skills-Resume/helvetica.sty
 INPUT /home/sam/code/Skills-Resume/helvetica.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /home/sam/code/Skills-Resume/res9b.aux
