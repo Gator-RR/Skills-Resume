@@ -1,50 +1,54 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.6.2)  2 JUN 2022 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  3 OCT 2023 22:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **/home/sam/code/Skills-Resume/res9b.tex
 (/home/sam/code/Skills-Resume/res9b.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (/home/sam/code/Skills-Resume/res.cls
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
 No auxiliary output files.
 
-\tabular@text=\toks14
-\tabular@head=\toks15
-\tabular@tail=\toks16
-\@ta=\toks17
-\undefined@token=\toks18
-\sectionwidth=\dimen135
+\tabular@text=\toks16
+\tabular@head=\toks17
+\tabular@tail=\toks18
+\@ta=\toks19
+\undefined@token=\toks20
+\sectionwidth=\dimen139
 \sectionskip=\skip49
-\resumewidth=\dimen136
-\@columnwidth=\dimen137
-\c@numberofcolumns=\count175
-) (/home/sam/code/Skills-Resume/helvetica.sty
+\resumewidth=\dimen140
+\@columnwidth=\dimen141
+\c@numberofcolumns=\count193
+) (./helvetica.sty
 Package: helvetica 94/11/11 4.2 Helvetica PSNFSS2e package
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count176
-\l__pdf_internal_box=\box45
-) (/home/sam/code/Skills-Resume/res9b.aux)
+)
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 6.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box50
+) (./res9b.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
@@ -59,13 +63,9 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 6.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-)
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 23.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
-File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 Overfull \hbox (3.29193pt too wide) in paragraph at lines 42--42
 []\OT1/phv/b/n/10 CERTIFICATIONS  
@@ -75,17 +75,17 @@ Overfull \hbox (3.29193pt too wide) in paragraph at lines 42--42
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
- 551 strings out of 483183
- 8737 string characters out of 5966293
- 238602 words of memory out of 5000000
- 15629 multiletter control sequences out of 15000+600000
- 540169 words of font info for 34 fonts, out of 8000000 for 9000
+ 617 strings out of 480247
+ 10612 string characters out of 5896151
+ 305990 words of memory out of 5000000
+ 18622 multiletter control sequences out of 15000+600000
+ 477090 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 32i,4n,25p,265b,170s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,5n,52p,284b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on /home/sam/code/Skills-Resume/res9b.pdf (1 page, 30604 bytes).
+Output written on res9b.pdf (1 page, 32877 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 24 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
