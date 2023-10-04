@@ -1,73 +1,68 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.6.2)  14 OCT 2022 17:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  3 OCT 2023 22:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **/home/sam/code/Skills-Resume/res9b.tex
 (/home/sam/code/Skills-Resume/res9b.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (/home/sam/code/Skills-Resume/res.cls
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
 No auxiliary output files.
 
-\tabular@text=\toks14
-\tabular@head=\toks15
-\tabular@tail=\toks16
-\@ta=\toks17
-\undefined@token=\toks18
-\sectionwidth=\dimen135
+\tabular@text=\toks16
+\tabular@head=\toks17
+\tabular@tail=\toks18
+\@ta=\toks19
+\undefined@token=\toks20
+\sectionwidth=\dimen139
 \sectionskip=\skip49
-\resumewidth=\dimen136
-\@columnwidth=\dimen137
-\c@numberofcolumns=\count175
-) (/home/sam/code/Skills-Resume/helvetica.sty
+\resumewidth=\dimen140
+\@columnwidth=\dimen141
+\c@numberofcolumns=\count193
+) (./helvetica.sty
 Package: helvetica 94/11/11 4.2 Helvetica PSNFSS2e package
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count176
-\mult@box=\box45
-\multicol@leftmargin=\dimen138
-\c@unbalance=\count177
-\c@collectmore=\count178
-\doublecol@number=\count179
-\multicoltolerance=\count180
-\multicolpretolerance=\count181
-\full@width=\dimen139
-\page@free=\dimen140
-\premulticols=\dimen141
-\postmulticols=\dimen142
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count194
+\mult@box=\box50
+\multicol@leftmargin=\dimen142
+\c@unbalance=\count195
+\c@collectmore=\count196
+\doublecol@number=\count197
+\multicoltolerance=\count198
+\multicolpretolerance=\count199
+\full@width=\dimen143
+\page@free=\dimen144
+\premulticols=\dimen145
+\postmulticols=\dimen146
 \multicolsep=\skip50
 \multicolbaselineskip=\skip51
-\partial@page=\box46
-\last@line=\box47
-\maxbalancingoverflow=\dimen143
-\mult@rightbox=\box48
-\mult@grightbox=\box49
-\mult@gfirstbox=\box50
-\mult@firstbox=\box51
-\@tempa=\box52
-\@tempa=\box53
-\@tempa=\box54
-\@tempa=\box55
-\@tempa=\box56
+\partial@page=\box51
+\last@line=\box52
+\maxbalancingoverflow=\dimen147
+\mult@rightbox=\box53
+\mult@grightbox=\box54
+\mult@firstbox=\box55
+\mult@gfirstbox=\box56
 \@tempa=\box57
 \@tempa=\box58
 \@tempa=\box59
@@ -100,20 +95,28 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box86
 \@tempa=\box87
 \@tempa=\box88
-\c@minrows=\count182
-\c@columnbadness=\count183
-\c@finalcolumnbadness=\count184
-\last@try=\dimen144
-\multicolovershoot=\dimen145
-\multicolundershoot=\dimen146
-\mult@nat@firstbox=\box89
-\colbreak@box=\box90
-\mc@col@check@num=\count185
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count186
-\l__pdf_internal_box=\box91
-) (/home/sam/code/Skills-Resume/res9b.aux)
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\c@minrows=\count266
+\c@columnbadness=\count267
+\c@finalcolumnbadness=\count268
+\last@try=\dimen148
+\multicolovershoot=\dimen149
+\multicolundershoot=\dimen150
+\mult@nat@firstbox=\box93
+\colbreak@box=\box94
+\mc@col@check@num=\count269
+)
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 7.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box95
+) (./res9b.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
@@ -128,28 +131,24 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 7.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-)
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 23.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
-File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
- 674 strings out of 483183
- 10613 string characters out of 5966293
- 244327 words of memory out of 5000000
- 15748 multiletter control sequences out of 15000+600000
- 540169 words of font info for 34 fonts, out of 8000000 for 9000
+ 759 strings out of 480247
+ 13034 string characters out of 5896151
+ 309698 words of memory out of 5000000
+ 18760 multiletter control sequences out of 15000+600000
+ 477090 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 32i,4n,25p,264b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,5n,52p,264b,204s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on /home/sam/code/Skills-Resume/res9b.pdf (1 page, 30221 bytes).
+Output written on res9b.pdf (1 page, 32496 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 24 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
